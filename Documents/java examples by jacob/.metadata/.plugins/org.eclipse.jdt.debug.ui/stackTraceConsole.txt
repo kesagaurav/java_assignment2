@@ -1,0 +1,6 @@
+org.junit.ComparisonFailure: expected:<Login:[]Mercury Tours> but was:<Login:[ ]Mercury Tours>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.example.gluecode.MercuryLoginTest.the_user_is_redirected_to_the_successful_login_page(MercuryLoginTest.java:53)
+	at ?.the User is redirected to the successful login page(file:///C:/Users/Kesa%20Gaurav/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/HelloCucumber/features/MercuryLogin.feature:26)
+

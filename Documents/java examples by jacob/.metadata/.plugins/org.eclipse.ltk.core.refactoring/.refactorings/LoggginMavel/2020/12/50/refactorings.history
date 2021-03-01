@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LoggginMavel/src/main/resources/Gaurav&apos; to &apos;log4j.properties&apos;" description="Rename resource &apos;Gaurav&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Gaurav" name="log4j.properties" stamp="1607719909197" updateReferences="true"/>
+</session>

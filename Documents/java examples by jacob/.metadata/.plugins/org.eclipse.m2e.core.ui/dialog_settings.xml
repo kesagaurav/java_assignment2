@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+			<item value="scm:git:https://gitlab.com/JacobWHayhurst/2012-decemeber-jwa.git"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\LinkedList\src\SingleLinkedList.java"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\SpringOrm\src\main\java\com\example\MainDriver.java"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\Project1\src\main\resources\frontend"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\HelloAjax\src\main\resources\frontend\html"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\JavalinIntro\pom.xml"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\Javalin\pom.xml"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\maven.1607380336175\JavaCoreHw\core\src\main\java\com\revature\eval\java\core\EvaluationService.java"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\HelloMaven"/>
+			<item value="C:\Users\Kesa Gaurav\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\day5\src\day5"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.example"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Hibernate1"/>
+			<item value="ThreadGaurav"/>
+			<item value="HelloCucumber"/>
+			<item value="PageFactory"/>
+			<item value="HelloSpringAOP"/>
+			<item value="HelloHibernate3"/>
+			<item value="SpringMVC"/>
+			<item value="SpringOrm"/>
+			<item value="HelloSpring"/>
+			<item value="HelloHibrnate2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Kesa Gaurav\Desktop\project2\banking-application"/>
+			<item value="C:\Users\Kesa Gaurav\Desktop\project2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="443"/>
+		<item key="y" value="10"/>
+	</section>
+</section>

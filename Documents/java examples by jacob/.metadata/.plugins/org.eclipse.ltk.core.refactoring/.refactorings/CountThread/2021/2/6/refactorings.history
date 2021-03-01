@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ThreadColor.java&apos; to &apos;MessagesThread/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;CountThread&apos;&#x0D;&#x0A;- Destination element: &apos;MessagesThread/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;ThreadColor.java&apos;" description="Copy compilation unit" destination="=MessagesThread/src&lt;" element1="/src&lt;{ThreadColor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1612351711660" units="1" version="1.0"/>
+</session>
